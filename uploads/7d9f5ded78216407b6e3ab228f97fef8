@@ -1,0 +1,92 @@
+HOME WIFI
+C:\Users\bunny>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : lan
+   IPv6 Address. . . . . . . . . . . : 2603:6000:b000:5831::1588
+   IPv6 Address. . . . . . . . . . . : 2603:6000:b000:5831:4fe7:e921:5468:fcfa
+   Temporary IPv6 Address. . . . . . : 2603:6000:b000:5831:7862:6f6d:272d:2575
+   Link-local IPv6 Address . . . . . : fe80::e6ec:afc0:165c:d9ba%5
+   IPv4 Address. . . . . . . . . . . : 192.168.1.191
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::4eab:f8ff:fe20:e570%5
+                                       192.168.1.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Ethernet adapter vEthernet (WSL (Hyper-V firewall)):
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::557d:230c:b3f9:c843%33
+   IPv4 Address. . . . . . . . . . . : 172.21.64.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . :
+
+
+Library WIFI 
+
+C:\Users\bunny>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : mpl.org
+   Link-local IPv6 Address . . . . . : fe80::e6ec:afc0:165c:d9ba%5
+   IPv4 Address. . . . . . . . . . . : 10.101.8.189
+   Subnet Mask . . . . . . . . . . . : 255.255.252.0
+   Default Gateway . . . . . . . . . : 10.101.8.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Ethernet adapter vEthernet (WSL (Hyper-V firewall)):
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::557d:230c:b3f9:c843%33
+   IPv4 Address. . . . . . . . . . . : 172.21.64.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . :
+
+C:\Users\bunny>curl ifconfig.me
+98.100.198.100 // public Address
